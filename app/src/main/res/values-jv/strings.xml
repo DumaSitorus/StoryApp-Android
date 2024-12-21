@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Stories</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Mlebu</string>
+    <string name="message_welcome_page">Unggah crita serumu nalika sinau bareng Dicoding, delengen crita saka wong liya, lan temokake lokasi dheweke!</string>
+    <string name="title_welcome_page">Sugeng Rawuh!</string>
+    <string name="title_signup_page">Lengkapi data sampeyan ing ngisor iki</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Mangga mlebu data sampeyan dhisik</string>
+    <string name="title_login_page">Siap kanggo nuduhake critamu?</string>
+    <string name="name">Jeneng</string>
+    <string name="message_main_page">Monggo sinau sing nyenengake nang Dicoding.</string>
+    <string name="logout">Mlayu metu</string>
+    <string name="welcome_to_dicoding_story">Sugeng Rawuh nang Dicoding Stories</string>
+    <string name="logo_dicoding">Logo Dicoding</string>
+    <string name="get_started_with_sign_up">Miuhmihe kanthi Daftar!</string>
+    <string name="get_start_to_login">Miuhmihe kanthi Mlebu!</string>
+    <string name="story_not_found">Cerita Ora Ketemu</string>
+    <string name="no_data_found">Ora Ana Data.</string>
+    <string name="description">Katrangan</string>
+    <string name="list_story">Dhaftar Cerita</string>
+    <string name="detail_story_not_found">Detail cerita ora ketemu</string>
+    <string name="image_story">Gambar Cerita</string>
+    <string name="created_at">Digawe ing</string>
+    <string name="empty_image_warning">Mangga unggah file gambar dhisik.</string>
+    <string name="create_story">Gawe Cerita</string>
+    <string name="upload">Unggah</string>
+    <string name="image_preview">Pratinjau Foto</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="photo">Foto</string>
+    <string name="user">Pengguna</string>
+    <string name="language">Basa</string>
+    <string name="see_story">Delengen Cerita</string>
+    <string name="app_widget_description">Iki yaiku deskripsi widget aplikasi</string>
+    <string name="greeting">Sugeng rawuh, %s</string>
+    <string name="no_media_selected">Ora ana media sing dipilih</string>
+    <string name="try_again">Cobanen maneh</string>
+    <string name="next">Sabanjure</string>
+    <string name="invalid_email">Format email ora bener</string>
+    <string name="invalid_password">Sandhi kudu ora kurang saka 8 karakter</string>
+    <string name="invalid_password_email">Email utawa sandhi ora bener</string>
+    <string name="loading">Muat..</string>
+    <string name="inavailable_date">Tanggal unggahan ora kasedhiya.</string>
+    <string name="image">Gambar</string>
+    <string name="faild_capture_image">Gagal njupuk gambar</string>
+    <string name="faild_capture_uri">Gagal njupuk URI gambar</string>
+    <string name="failed_image_process">Gagal njupuk URI gambar</string>
+    <string name="permission_granted">"Permintaan idin wis diparingi"</string>
+    <string name="permission_denied">"Permintaan idin ditolak"</string>
+    <string name="title_activity_maps">Peta Cerita</string>
+    <string name="map">Peta</string>
+    <string name="location_unavailable">Lokasi Ora Kasedhiya</string>
+    <string name="include_location">Kalebu Lokasimu</string>
+
+
+</resources>
